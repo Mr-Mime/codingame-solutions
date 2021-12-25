@@ -9,7 +9,7 @@ This is a collection of my solutions for codingame puzzles
     
 | Puzzle  | Languages  | Extras |
 |---|---|---|
-| [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals)               | C, Python | ❗ BASH achievment needs to be done |
+| [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals)               | C, Python, Bash | ✔️  Got the "Bash rider" achievment |
 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1)       | C         | ✔️ Got the "Economic" achievment    |
 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                                 | C         |   |
 | [Temperatures](https://www.codingame.com/training/easy/temperatures)                           | C         |   |
